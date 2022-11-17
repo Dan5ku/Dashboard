@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>needleblue.png</file>
+        <file>needleorange.png</file>
+        <file>needlered.png</file>
+        <file>speedo.png</file>
+        <file>tacho.png</file>
+        <file>Speedometer.qml</file>
+        <file>Tachometer.qml</file>
+        <file>Button2.qml</file>
+        <file>icons8-automotive-65.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+-rootPath
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard
+-cmake-output
+-output-file
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Dashboard.cmake
+-importPath
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.4.0/mingw_64/./qml

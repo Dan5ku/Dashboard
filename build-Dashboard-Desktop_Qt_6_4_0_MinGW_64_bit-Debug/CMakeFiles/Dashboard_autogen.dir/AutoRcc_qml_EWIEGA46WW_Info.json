@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Dashboard_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard",
+	"CMAKE_SOURCE_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard",
+	"INCLUDE_DIR" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Dashboard_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/speedo.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/needleorange.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/Tachometer.qml",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/tacho.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/needlered.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/icons8-automotive-65.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/Button2.qml",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/needleblue.png",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/Speedometer.qml",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/Button.qml",
+		"E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/main.qml"
+	],
+	"LOCK_FILE" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/Dashboard/qml.qrc",
+	"VERBOSITY" : 0
+}

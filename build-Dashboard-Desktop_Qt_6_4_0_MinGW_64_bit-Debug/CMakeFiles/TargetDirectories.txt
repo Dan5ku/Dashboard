@@ -1,0 +1,10 @@
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard_qmlimportscan.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard_autogen_timestamp_deps.dir
+E:/Koulu/2022_syksy/Sovellusten_ohjelmointi/gt-gml/Dashboard/build-Dashboard-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Dashboard_autogen.dir
